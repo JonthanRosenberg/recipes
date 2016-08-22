@@ -1,0 +1,12 @@
+Grilled Toast
+
+Ingredents:
+1. bread
+2. butter
+3. cheese
+
+Algorithm:
+1. take 2 slices of bread and smudder them with butter all around
+2. place 2 slices of cheese between the bread slices
+3. get them inside a toster
+4. eat.
